@@ -3,6 +3,7 @@ Link: http://i392329.hera.fhict.nl/data-story/
 
 ## Description
 This was an individual project, part of my "Data Science" specialization course in university. The goal of the project was to develop an interactive data story that contributes to one or more United Nations' 2030 Sustainable Development Goals. The topic of choice for this project was NCDs, more widely known as Chronic disease. The end deliverable for the project was a process report and a one-page website data story with interactive visualizations and a storyline as follows:
+
 1. Topic introduction
 2. United Nations' 2030 targets
 3. Problem definition
