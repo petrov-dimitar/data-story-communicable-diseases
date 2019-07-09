@@ -28,4 +28,4 @@ The realization of project required an extensive amount of data gathering, combi
 In order to use the full functionality of the website I reccommend:
 *Try scrolling down both with mouse scroller and by choosing the desired section with the "hamburger" menu at top right
 *Try mouse hovering and clicking on visualizations and various elements of the website as many are interactive
-*Use the filters in visualizations where such are provided
+* Use the filters in visualizations where such are provided
