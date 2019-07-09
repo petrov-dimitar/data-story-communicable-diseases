@@ -13,7 +13,7 @@ This was an individual project, part of my "Data Science" specialization course 
 7. Why is the progress not fast enough
 8. Recommendations to increase the progress
 
-The realization of project required an extensive amount of data gathering, combining, cleaning and manipulation technics and the usage of various "Big Data" open sources. 
+The realization of project required an extensive amount of data gathering, combining, cleaning and manipulation technics, as well as the usage of various "Big Data" open sources. 
 
 ## Technologies
 - HTML
